@@ -4,7 +4,7 @@
 # python 3.3.2+ Hammer Dos Script v.1
 # by Can Yalçın
 # only for legal purpose
-
+# mr-z641
 
 from queue import Queue
 from optparse import OptionParser
